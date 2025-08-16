@@ -1,2 +1,2 @@
 # firstai
-Created my first speech recognition Ai agent
+Created my first Vietnamese AI CHATBOX.
